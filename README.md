@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Nihal
 
-<!--
-**nihalinel/nihalinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 **Computer Engineering & Management Student at McMaster University**
 
-Here are some ideas to get you started:
+💼 **Currently seeking Summer 2026 internships**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏳ **Previously:**
+- Software Developer Co-op at ATS Corporation
+- Software Developer Co-op at Brock Solutions
+- Firmware Team Member at McMaster Solar Car
+
+🎯 **Leadership & Involvement:**
+- Co-President of McMaster Engineering and Management Society (MEMS)
+- Teaching Assistant for ENGINEER 1P13: Computing
+- Web Developer at MES InfraTech
+
+📫 **Learn more about me:**
+- [Portfolio](https://www.nihalinel.com/)
+- [LinkedIn](https://www.linkedin.com/in/nihal-inel/)
+- [Email](mailto:inela@mcmaster.ca)
