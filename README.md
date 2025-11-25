@@ -16,5 +16,6 @@
 
 📫 **Learn more about me:**
 - [Portfolio](https://www.nihalinel.com/)
+- [Resume](./Nihal_Inel_SWE.pdf)
 - [LinkedIn](https://www.linkedin.com/in/nihal-inel/)
 - [Email](mailto:inela@mcmaster.ca)
