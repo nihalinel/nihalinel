@@ -2,9 +2,8 @@
 
 📚 **Computer Engineering & Management Student at McMaster University**
 
-💼 **Currently seeking Summer 2026 internships**
-
 ⏳ **Previously:**
+- TPM Intern at Canada Life
 - Software Developer Co-op at ATS Corporation
 - Software Developer Co-op at Brock Solutions
 - Firmware Team Member at McMaster Solar Car
